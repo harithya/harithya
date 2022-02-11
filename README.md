@@ -1,4 +1,4 @@
-![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+![About Me](https://github.com/harithya/harithya/raw/main/animesher.com_hello-gif-1499087%20(1).gif)
 # Hello World👋
 I am a fullstack developer from Tasikmalaya who focuses on Frontend Dev and Mobile Dev. Enjoy building everything from small app sites to elegant apps.
 
