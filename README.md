@@ -4,5 +4,5 @@ I am a fullstack developer from Tasikmalaya who focuses on Frontend Dev and Mobi
 
 - 🏫 I am currently student at STIMIK Tasikmalaya
 - 💻 I focus on frontend especially react native
-- 👯 I’m looking for a software development internship
+- 👯 I also like exploring new things, especially in the field of frontend
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/harithya-wisesa-2a260b1a3/) [Gmail](mailto:harithya77@gmail.com)
