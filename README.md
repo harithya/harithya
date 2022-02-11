@@ -1,4 +1,3 @@
-![](https://animesher.com/orig/1/149/1499/14990/animesher.com_hello-gif-1499087.gif?raw=true)
 # Hello World👋
 I am a fullstack developer from Tasikmalaya who focuses on Frontend Dev and Mobile Dev. Enjoy building everything from small app sites to elegant apps.
 
