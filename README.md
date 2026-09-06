@@ -1,4 +1,4 @@
-![About Me]([https://github.com/harithya/harithya/raw/main/animesher.com_hello-gif-1499087%20(1).gif](https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-25.gif))
+![About Me](https://raw.githubusercontent.com/harithya/harithya/refs/heads/main/aniyuki-hello-25.gif)
 # Hello World👋
 I am a fullstack developer from Tasikmalaya who focuses on Frontend Dev and Mobile Dev. Enjoy building everything from small app sites to elegant apps.
 
